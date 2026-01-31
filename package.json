@@ -1,0 +1,49 @@
+{
+	"name": "shadowline",
+	"displayName": "ShadowLine Theme",
+	"description": "A custom Theme for Visual Studio Code.",
+	"version": "1.0.0",
+	"publisher": "ByGONCA",
+	"icon": "./images/ShadowLine-Logo.jpg",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ByGONCA/ShadowLine-Theme"
+	},
+	"engines": {
+		"vscode": "^1.78.2"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"id": "shadowline",
+				"label": "ShadowLine",
+				"uiTheme": "vs-dark",
+				"path": "./themes/shadowline-dark.json"
+			},
+			{
+				"id": "shadowline-less-dark",
+				"label": "ShadowLine Less Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/shadowline-less-dark.json"
+			},
+			{
+				"id": "shadowline-no-styles",
+				"label": "ShadowLine No Styles",
+				"uiTheme": "vs-dark",
+				"path": "./themes/shadowline-dark-no-styles.json"
+			},
+			{
+				"id": "shadowline-less-dark-no-styles",
+				"label": "ShadowLine Less Dark No Styles",
+				"uiTheme": "vs-dark",
+				"path": "./themes/shadowline-less-dark-no-styles.json"
+			}
+		],
+		"configurationDefaults": {
+			"workbench.iconTheme": "vs-seti"
+		}
+	}
+}

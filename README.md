@@ -108,43 +108,43 @@ ShadowLine uses a carefully curated color palette designed for maximum readabili
 
 ### Core UI Colors
 
-| Element | Hex Code | Usage |
-|---------|----------|-------|
-| **Background** | `#121212` | Main editor background (dark variant) |
-| **Background (Less Dark)** | `#1A1A1A` | Main editor background (less dark variant) |
-| **Foreground** | `#D8DEE9` | Primary text color |
-| **Selection** | `#404040` | Selected text background |
-| **Line Highlight** | `#292929` | Current line background |
-| **Cursor** | `#B0B0B0` | Cursor color |
-| **Line Numbers** | `#505050` | Inactive line numbers |
-| **Active Line Number** | `#909090` | Active line number |
+| Element | Color | Hex Code | Usage |
+|---------|-------|----------|-------|
+| **Background** | ![](https://img.shields.io/badge/-%23121212-121212?style=flat-square) | `#121212` | Main editor background (dark variant) |
+| **Background (Less Dark)** | ![](https://img.shields.io/badge/-%231A1A1A-1A1A1A?style=flat-square) | `#1A1A1A` | Main editor background (less dark variant) |
+| **Foreground** | ![](https://img.shields.io/badge/-%23D8DEE9-D8DEE9?style=flat-square) | `#D8DEE9` | Primary text color |
+| **Selection** | ![](https://img.shields.io/badge/-%23404040-404040?style=flat-square) | `#404040` | Selected text background |
+| **Line Highlight** | ![](https://img.shields.io/badge/-%23292929-292929?style=flat-square) | `#292929` | Current line background |
+| **Cursor** | ![](https://img.shields.io/badge/-%23B0B0B0-B0B0B0?style=flat-square) | `#B0B0B0` | Cursor color |
+| **Line Numbers** | ![](https://img.shields.io/badge/-%23505050-505050?style=flat-square) | `#505050` | Inactive line numbers |
+| **Active Line Number** | ![](https://img.shields.io/badge/-%23909090-909090?style=flat-square) | `#909090` | Active line number |
 
 ### Syntax Colors
 
-| Token Type | Hex Code | Examples |
-|------------|----------|----------|
-| **Keywords** | `#82D2CE` | `import`, `export`, `async`, `await`, `function` |
-| **Control Keywords** | `#A8CC7C` | `if`, `else`, `for`, `while`, `return` |
-| **Variables** | `#D1D1D1` | Variable names |
-| **Properties** | `#AA9BF5` | Object properties, class members |
-| **Functions (Calls)** | `#EBC88D` | Function invocations |
-| **Functions (Declarations)** | `#EFB080` | Function definitions (bold) |
-| **Strings** | `#A8CC7C` | String literals |
-| **Numbers** | `#D1D1D1` | Numeric values |
-| **Comments** | `#505050` | Code comments (muted) |
-| **Types/Classes** | `#87C3FF` | Type names, class names |
-| **Constants** | `#82D2CE` | `true`, `false`, `null`, `undefined` |
-| **Operators** | `#D6D6DD` | `+`, `-`, `*`, `/`, `=` |
+| Token Type | Color | Hex Code | Examples |
+|------------|-------|----------|----------|
+| **Keywords** | ![](https://img.shields.io/badge/-%2382D2CE-82D2CE?style=flat-square) | `#82D2CE` | `import`, `export`, `async`, `await`, `function` |
+| **Control Keywords** | ![](https://img.shields.io/badge/-%23A8CC7C-A8CC7C?style=flat-square) | `#A8CC7C` | `if`, `else`, `for`, `while`, `return` |
+| **Variables** | ![](https://img.shields.io/badge/-%23D1D1D1-D1D1D1?style=flat-square) | `#D1D1D1` | Variable names |
+| **Properties** | ![](https://img.shields.io/badge/-%23AA9BF5-AA9BF5?style=flat-square) | `#AA9BF5` | Object properties, class members |
+| **Functions (Calls)** | ![](https://img.shields.io/badge/-%23EBC88D-EBC88D?style=flat-square) | `#EBC88D` | Function invocations |
+| **Functions (Declarations)** | ![](https://img.shields.io/badge/-%23EFB080-EFB080?style=flat-square) | `#EFB080` | Function definitions (bold) |
+| **Strings** | ![](https://img.shields.io/badge/-%23A8CC7C-A8CC7C?style=flat-square) | `#A8CC7C` | String literals |
+| **Numbers** | ![](https://img.shields.io/badge/-%23D1D1D1-D1D1D1?style=flat-square) | `#D1D1D1` | Numeric values |
+| **Comments** | ![](https://img.shields.io/badge/-%23505050-505050?style=flat-square) | `#505050` | Code comments (muted) |
+| **Types/Classes** | ![](https://img.shields.io/badge/-%2387C3FF-87C3FF?style=flat-square) | `#87C3FF` | Type names, class names |
+| **Constants** | ![](https://img.shields.io/badge/-%2382D2CE-82D2CE?style=flat-square) | `#82D2CE` | `true`, `false`, `null`, `undefined` |
+| **Operators** | ![](https://img.shields.io/badge/-%23D6D6DD-D6D6DD?style=flat-square) | `#D6D6DD` | `+`, `-`, `*`, `/`, `=` |
 
 ### Semantic Colors
 
-| Element | Hex Code | Purpose |
-|---------|----------|----------|
-| **Error** | `#BF616A` | Error messages and indicators |
-| **Warning** | `#EBCB8B` | Warning messages |
-| **Success/Added** | `#A3BE8C` | Git additions, success states |
-| **Modified** | `#B89A60` | Git modifications |
-| **Info** | `#88C0D0` | Info messages, find matches |
+| Element | Color | Hex Code | Purpose |
+|---------|-------|----------|----------|
+| **Error** | ![](https://img.shields.io/badge/-%23BF616A-BF616A?style=flat-square) | `#BF616A` | Error messages and indicators |
+| **Warning** | ![](https://img.shields.io/badge/-%23EBCB8B-EBCB8B?style=flat-square) | `#EBCB8B` | Warning messages |
+| **Success/Added** | ![](https://img.shields.io/badge/-%23A3BE8C-A3BE8C?style=flat-square) | `#A3BE8C` | Git additions, success states |
+| **Modified** | ![](https://img.shields.io/badge/-%23B89A60-B89A60?style=flat-square) | `#B89A60` | Git modifications |
+| **Info** | ![](https://img.shields.io/badge/-%2388C0D0-88C0D0?style=flat-square) | `#88C0D0` | Info messages, find matches |
 
 ### Design Philosophy
 

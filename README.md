@@ -108,43 +108,43 @@ ShadowLine uses a carefully curated color palette designed for maximum readabili
 
 ### Core UI Colors
 
-| Element | Color | Hex Code | Usage |
-|---------|-------|----------|-------|
-| **Background** | ![#121212](https://via.placeholder.com/15/121212/121212.png) | `#121212` | Main editor background (dark variant) |
-| **Background (Less Dark)** | ![#1A1A1A](https://via.placeholder.com/15/1A1A1A/1A1A1A.png) | `#1A1A1A` | Main editor background (less dark variant) |
-| **Foreground** | ![#D8DEE9](https://via.placeholder.com/15/D8DEE9/D8DEE9.png) | `#D8DEE9` | Primary text color |
-| **Selection** | ![#404040](https://via.placeholder.com/15/404040/404040.png) | `#404040` | Selected text background |
-| **Line Highlight** | ![#292929](https://via.placeholder.com/15/292929/292929.png) | `#292929` | Current line background |
-| **Cursor** | ![#B0B0B0](https://via.placeholder.com/15/B0B0B0/B0B0B0.png) | `#B0B0B0` | Cursor color |
-| **Line Numbers** | ![#505050](https://via.placeholder.com/15/505050/505050.png) | `#505050` | Inactive line numbers |
-| **Active Line Number** | ![#909090](https://via.placeholder.com/15/909090/909090.png) | `#909090` | Active line number |
+| Element | Hex Code | Usage |
+|---------|----------|-------|
+| **Background** | `#121212` | Main editor background (dark variant) |
+| **Background (Less Dark)** | `#1A1A1A` | Main editor background (less dark variant) |
+| **Foreground** | `#D8DEE9` | Primary text color |
+| **Selection** | `#404040` | Selected text background |
+| **Line Highlight** | `#292929` | Current line background |
+| **Cursor** | `#B0B0B0` | Cursor color |
+| **Line Numbers** | `#505050` | Inactive line numbers |
+| **Active Line Number** | `#909090` | Active line number |
 
 ### Syntax Colors
 
-| Token Type | Color | Hex Code | Examples |
-|------------|-------|----------|----------|
-| **Keywords** | ![#82D2CE](https://via.placeholder.com/15/82D2CE/82D2CE.png) | `#82D2CE` | `import`, `export`, `async`, `await`, `function` |
-| **Control Keywords** | ![#A8CC7C](https://via.placeholder.com/15/A8CC7C/A8CC7C.png) | `#A8CC7C` | `if`, `else`, `for`, `while`, `return` |
-| **Variables** | ![#D1D1D1](https://via.placeholder.com/15/D1D1D1/D1D1D1.png) | `#D1D1D1` | Variable names |
-| **Properties** | ![#AA9BF5](https://via.placeholder.com/15/AA9BF5/AA9BF5.png) | `#AA9BF5` | Object properties, class members |
-| **Functions (Calls)** | ![#EBC88D](https://via.placeholder.com/15/EBC88D/EBC88D.png) | `#EBC88D` | Function invocations |
-| **Functions (Declarations)** | ![#EFB080](https://via.placeholder.com/15/EFB080/EFB080.png) | `#EFB080` | Function definitions (bold) |
-| **Strings** | ![#A8CC7C](https://via.placeholder.com/15/A8CC7C/A8CC7C.png) | `#A8CC7C` | String literals |
-| **Numbers** | ![#D1D1D1](https://via.placeholder.com/15/D1D1D1/D1D1D1.png) | `#D1D1D1` | Numeric values |
-| **Comments** | ![#505050](https://via.placeholder.com/15/505050/505050.png) | `#505050` | Code comments (muted) |
-| **Types/Classes** | ![#87C3FF](https://via.placeholder.com/15/87C3FF/87C3FF.png) | `#87C3FF` | Type names, class names |
-| **Constants** | ![#82D2CE](https://via.placeholder.com/15/82D2CE/82D2CE.png) | `#82D2CE` | `true`, `false`, `null`, `undefined` |
-| **Operators** | ![#D6D6DD](https://via.placeholder.com/15/D6D6DD/D6D6DD.png) | `#D6D6DD` | `+`, `-`, `*`, `/`, `=` |
+| Token Type | Hex Code | Examples |
+|------------|----------|----------|
+| **Keywords** | `#82D2CE` | `import`, `export`, `async`, `await`, `function` |
+| **Control Keywords** | `#A8CC7C` | `if`, `else`, `for`, `while`, `return` |
+| **Variables** | `#D1D1D1` | Variable names |
+| **Properties** | `#AA9BF5` | Object properties, class members |
+| **Functions (Calls)** | `#EBC88D` | Function invocations |
+| **Functions (Declarations)** | `#EFB080` | Function definitions (bold) |
+| **Strings** | `#A8CC7C` | String literals |
+| **Numbers** | `#D1D1D1` | Numeric values |
+| **Comments** | `#505050` | Code comments (muted) |
+| **Types/Classes** | `#87C3FF` | Type names, class names |
+| **Constants** | `#82D2CE` | `true`, `false`, `null`, `undefined` |
+| **Operators** | `#D6D6DD` | `+`, `-`, `*`, `/`, `=` |
 
 ### Semantic Colors
 
-| Element | Color | Hex Code | Purpose |
-|---------|-------|----------|---------|
-| **Error** | ![#BF616A](https://via.placeholder.com/15/BF616A/BF616A.png) | `#BF616A` | Error messages and indicators |
-| **Warning** | ![#EBCB8B](https://via.placeholder.com/15/EBCB8B/EBCB8B.png) | `#EBCB8B` | Warning messages |
-| **Success/Added** | ![#A3BE8C](https://via.placeholder.com/15/A3BE8C/A3BE8C.png) | `#A3BE8C` | Git additions, success states |
-| **Modified** | ![#B89A60](https://via.placeholder.com/15/B89A60/B89A60.png) | `#B89A60` | Git modifications |
-| **Info** | ![#88C0D0](https://via.placeholder.com/15/88C0D0/88C0D0.png) | `#88C0D0` | Info messages, find matches |
+| Element | Hex Code | Purpose |
+|---------|----------|----------|
+| **Error** | `#BF616A` | Error messages and indicators |
+| **Warning** | `#EBCB8B` | Warning messages |
+| **Success/Added** | `#A3BE8C` | Git additions, success states |
+| **Modified** | `#B89A60` | Git modifications |
+| **Info** | `#88C0D0` | Info messages, find matches |
 
 ### Design Philosophy
 

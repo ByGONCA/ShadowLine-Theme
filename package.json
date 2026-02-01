@@ -1,10 +1,10 @@
 {
 	"name": "shadowline",
 	"displayName": "ShadowLine Theme",
-	"description": "A custom Theme for Visual Studio Code.",
-	"version": "1.0.0",
+	"description": "ShadowLine is a modern VS Code theme with unified workspace colors, italic keywords, and bold bracket variables for better readability across all languages.",
+	"version": "1.0.1",
 	"publisher": "ByGONCA",
-	"icon": "./images/ShadowLine-Logo.jpg",
+	"icon": "images/ShadowLine-Logo.jpg",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ByGONCA/ShadowLine-Theme"

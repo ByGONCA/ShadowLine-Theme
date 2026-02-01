@@ -136,7 +136,7 @@
 		"notifications.background": "#1A1A1A",
 		"notifications.foreground": "#909090",
 		"panel.background": "#1A1A1A",
-		"panel.border": "#2A2A2A0D",
+		"panel.border": "#FFFFFF0D",
 		"panelTitle.activeBorder": "#50505000",
 		"panelTitle.activeForeground": "#909090",
 		"panelTitle.inactiveForeground": "#505050",

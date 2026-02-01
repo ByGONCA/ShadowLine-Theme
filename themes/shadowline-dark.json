@@ -2,7 +2,7 @@
 	"name": "ShadowLine",
 	"colors": {
 		"activityBar.background": "#121212",
-		"activityBar.foreground": "#909090",
+		"activityBar.foreground": "#707070",
 		"activityBar.inactiveForeground": "#606060",
 		"activityBarBadge.background": "#909090",
 		"activityBarBadge.foreground": "#121212",
@@ -136,7 +136,7 @@
 		"notifications.background": "#121212",
 		"notifications.foreground": "#909090",
 		"panel.background": "#121212",
-		"panel.border": "#2A2A2A0D",
+		"panel.border": "#FFFFFF0D",
 		"panelTitle.activeBorder": "#50505000",
 		"panelTitle.activeForeground": "#909090",
 		"panelTitle.inactiveForeground": "#505050",

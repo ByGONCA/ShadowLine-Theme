@@ -1,0 +1,10 @@
+{
+  "name": "ShadowLine",
+  "version": "1.0.0",
+  "enabled": true,
+  "numbers": [1, 2, 3],
+  "nested": {
+    "nullValue": null,
+    "bool": false
+  }
+}

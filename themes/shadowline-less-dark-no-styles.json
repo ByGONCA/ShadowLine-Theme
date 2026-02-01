@@ -524,6 +524,14 @@
 			}
 		},
 		{
+			"name": "Docstring Punctuation Override",
+			"scope": "string.quoted.docstring punctuation.definition.string.begin, string.quoted.docstring punctuation.definition.string.end",
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#8ba8af"
+			}
+		},
+		{
 			"name": "Text",
 			"scope": "variable.parameter.function",
 			"settings": {
@@ -1143,6 +1151,22 @@
 			"scope": "string",
 			"settings": {
 				"foreground": "#e394dc"
+			}
+		},
+		{
+			"name": "Docstrings",
+			"scope": "string.quoted.docstring",
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#8ba8af"
+			}
+		},
+		{
+			"name": "Docstring Quotes",
+			"scope": "string.quoted.docstring punctuation.definition.string",
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#8ba8af"
 			}
 		},
 		{
@@ -2117,7 +2141,8 @@
 			"name": "Comments",
 			"scope": "comment, punctuation.definition.comment",
 			"settings": {
-				"foreground": "#6d6d6d"
+				"fontStyle": "italic",
+				"foreground": "#8ba8af"
 			}
 		},
 		{

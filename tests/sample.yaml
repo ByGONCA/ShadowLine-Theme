@@ -1,0 +1,9 @@
+# sample.yaml
+name: ShadowLine
+version: 1.0.0
+features:
+  - syntax
+  - ui
+settings:
+  enabled: true
+  level: 3

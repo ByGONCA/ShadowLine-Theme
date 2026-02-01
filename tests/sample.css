@@ -1,0 +1,23 @@
+/* sample.css */
+:root {
+  --bg: #101014;
+  --fg: #e6e6e6;
+  --accent: #4aa3ff;
+}
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: system-ui, sans-serif;
+}
+
+.button {
+  border: 1px solid var(--accent);
+  padding: 0.5rem 1rem;
+  transition: all 150ms ease-in-out;
+}
+
+.button:hover {
+  background: var(--accent);
+  color: #000;
+}

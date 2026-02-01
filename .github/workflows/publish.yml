@@ -20,8 +20,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Install vsce
-        run: npm install -g vsce
+      - name: Install vsce (v1)
+        run: npm install -g vsce@1.115.0
 
       - name: Publish extension
         run: vsce publish --pat ${{ secrets.VSCE_PAT }}
